@@ -12,12 +12,6 @@ const styles = StyleSheet.create({
         height: 60,
         borderBottomColor: 'grey',
         borderBottomWidth: 1,
-        borderTopColor: 'grey',
-        borderTopWidth: 1,
-        borderLeftColor: 'grey',
-        borderLeftWidth: 1,
-        borderRightColor: 'grey',
-        borderRightWidth: 1,
         marginVertical: 10,
     }
 });
